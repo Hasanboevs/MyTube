@@ -1,0 +1,6 @@
+@My_Tube_HostAddress = http://localhost:5243
+
+GET {{My_Tube_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
